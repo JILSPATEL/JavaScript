@@ -25,8 +25,6 @@ A simple and interactive todo list web app that allows users to:
 #### 📸 Screenshot:
 ![Todo List Screenshot](./todo-list/screenshot.png)
 
-> Make sure you upload the screenshot image as `todo-list/screenshot.png` in the respective folder or update the path.
-
 ---
 
 ### 2. ✊✋✌️ Rock Paper Scissors
@@ -41,8 +39,6 @@ A classic Rock-Paper-Scissors game where you play against the computer. The resu
 
 #### 📸 Screenshot:
 ![Rock Paper Scissors Screenshot](./rock-paper-scissors/screenshot.png)
-
-> Upload the screenshot image as `rock-paper-scissors/screenshot.png`.
 
 ---
 
