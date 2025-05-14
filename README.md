@@ -2,8 +2,8 @@
 
 This repository contains two beginner-friendly JavaScript projects built using **HTML**, **CSS**, and **JavaScript**:
 
-1. [Todo List](#todo-list)
-2. [Rock Paper Scissors Game](#rock-paper-scissors)
+1. [Todo List](./todo-list)
+2. [Rock Paper Scissors Game](./rock-paper-scissors)
 
 Each project is self-contained in its own folder with all necessary files.
 
